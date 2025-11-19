@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/hlinn/unreal-playfab/ue5demo1/Content/Levels/RegisterBlueprint.uasset",
+				"C:/Users/hlinn/unreal-playfab/ue5demo1/Content/Levels/ReloginLevel.umap",
+				"C:/Users/hlinn/unreal-playfab/ue5demo1/Content/Levels/LoginBlueprint.uasset",
+				"C:/Users/hlinn/unreal-playfab/ue5demo1/Content/Levels/LeaderBoard.uasset",
 				"C:/Users/243962J/Desktop/Unreal Projects/ue5demo1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/243962J/Desktop/Unreal Projects/ue5demo1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/243962J/Desktop/Unreal Projects/ue5demo1/Content/triggervol.uasset",
