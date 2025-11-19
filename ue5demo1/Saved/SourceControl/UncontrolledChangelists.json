@@ -5,10 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/hlinn/unreal-playfab/ue5demo1/Content/Levels/RegisterBlueprint.uasset",
-				"C:/Users/hlinn/unreal-playfab/ue5demo1/Content/Levels/ReloginLevel.umap",
-				"C:/Users/hlinn/unreal-playfab/ue5demo1/Content/Levels/LoginBlueprint.uasset",
-				"C:/Users/hlinn/unreal-playfab/ue5demo1/Content/Levels/LeaderBoard.uasset",
 				"C:/Users/243962J/Desktop/Unreal Projects/ue5demo1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/243962J/Desktop/Unreal Projects/ue5demo1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/243962J/Desktop/Unreal Projects/ue5demo1/Content/triggervol.uasset",
@@ -168,7 +164,12 @@
 				"C:/Users/243962J/Desktop/Unreal Projects/ue5demo1/Content/__ExternalActors__/Levels/ReloginLevel/9/F4/YB85JKTAAGH7UI07CRQLWB.uasset",
 				"C:/Users/243962J/Desktop/Unreal Projects/ue5demo1/Content/__ExternalActors__/Levels/ReloginLevel/A/TQ/SJRR9M1340FJ9D4OK0979R.uasset",
 				"C:/Users/243962J/Desktop/Unreal Projects/ue5demo1/Content/__ExternalActors__/Levels/ReloginLevel/A/CF/GH6ZARD24BQOUY1IDOOBHJ.uasset",
-				"C:/Users/243962J/Desktop/Unreal Projects/ue5demo1/Content/Levels/RegisterBlueprint.uasset"
+				"C:/Users/243962J/Desktop/Unreal Projects/ue5demo1/Content/Levels/RegisterBlueprint.uasset",
+				"C:/Users/243962J/Desktop/Unreal Projects/New folder/ue5demo1/Content/Levels/LoginBlueprint.uasset",
+				"C:/Users/hlinn/unreal-playfab/ue5demo1/Content/Levels/RegisterBlueprint.uasset",
+				"C:/Users/hlinn/unreal-playfab/ue5demo1/Content/Levels/ReloginLevel.umap",
+				"C:/Users/hlinn/unreal-playfab/ue5demo1/Content/Levels/LoginBlueprint.uasset",
+				"C:/Users/hlinn/unreal-playfab/ue5demo1/Content/Levels/LeaderBoard.uasset"
 			]
 		}
 	]
