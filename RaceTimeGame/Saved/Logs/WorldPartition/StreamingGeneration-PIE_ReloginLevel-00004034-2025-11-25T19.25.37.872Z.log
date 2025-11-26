@@ -1,0 +1,26 @@
+[+] Containers:
+ |- [+] Container: /Game/Levels/ReloginLevel
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:CCF1E2834207287B1C99C5A53A666936 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:CCF1E2834207287B1C99C5A53A666936 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Levels/ReloginLevel
+----------------------------------------------------------------------------------------------------------------
+ReloginLevel - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of ReloginLevel Persistent Level
+ |- Always loaded Actor Count: 1 
+ |- Actor Path: /Game/Levels/ReloginLevel.ReloginLevel:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Levels/ReloginLevel/B/U6/8FPINOAN9RIWREQYOC7MNK
+
+----------------------------------------------------------------------------------------------------------------
+ReloginLevel - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
