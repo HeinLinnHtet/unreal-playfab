@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/hlinn/cloudcomputing/RaceTimeGame/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
+				"C:/Users/hlinn/cloudcomputing/RaceTimeGame/Content/Levels/LoginBlueprint.uasset",
+				"C:/Users/hlinn/cloudcomputing/RaceTimeGame/Content/Levels/RegisterBlueprint.uasset",
 				"C:/Users/243962J/Documents/GitHub/unreal-playfab/RaceTimeGame/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
 				"C:/Users/243962J/Documents/GitHub/unreal-playfab/RaceTimeGame/Content/TimerUI.uasset",
 				"C:/Users/243962J/Documents/GitHub/unreal-playfab/RaceTimeGame/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/0/0V/CCE1EPD38GGR9KSYAC0DVF.uasset",
